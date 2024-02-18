@@ -1,0 +1,320 @@
+<DOCTYPE html>
+  <html lang="en">
+    <head>
+      <link href="styles.css" rel="stylesheet" type="text/css/>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    </head>
+
+    <style>
+      header {
+        background-color: black;
+        font: sans-serif;
+      }
+      .deeper {
+        color: white;
+      }
+      .knowledge {
+        color: white;
+      }
+      .influenced {
+        color: white;
+      }
+      .individual {
+        color: white;
+      }
+      .modern-life {
+        color: white;
+      }
+      .check-all {
+        color: white;
+      }
+      .devils {
+        color: white;
+      }
+      .conclusion {
+        color: white;
+      }
+      .snowden {
+      }
+      .p1 {
+      }
+      .body {
+        background-color: burlywood;
+      }
+      .every-day {
+        color: white;
+      }
+    </style>
+    <body class="body">
+      <header>
+        <form
+          action="https://www.google.com/search"
+          method="GET"
+          class="topnav"
+        >
+          <input type="text" placeholder="Google Search" />
+          <input type="submit" value="Google Search" />
+        </form>
+      </header>
+      <h1 class="deeper">
+        Why everyone should understand programming!(A deeper dive)
+        <nav id="nav-bar"></nav>
+      </h1>
+      <h2 class="every-day">Every day life utility</h2>
+      <p class="p1">
+        Waking up every day our life usually begins with our electronic devices.
+        The alarm goes off, you hit snooze, you hit snooze again; and finally,
+        we drag ourselves out of bed ready to start the day. Without these
+        "magical" devices many of us would be late, some of us would be sleeping
+        in, and more often than not, the average human being would be lost.
+        While some may argue that this is an exaggeration, the majority of us
+        would have our daily routines hindered through lack of resources.
+        Resources that we all take for granted, resources that connect humanity
+        in a collective, and complicated database.This database is,
+        <a
+          id="gfc-article"
+          href="https://edu.gcfglobal.org/en/internetbasics/what-is-the-internet/1/"
+          >The Internet.</a
+        >
+      </p>
+      <img
+        id="interconnectedness"
+        src="data:image/jpeg;base64,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"
+        data-deferred="1"
+        class="rg_i Q4LuWd"
+        jsname="Q4LuWd"
+        width="290"
+        height="174"
+        alt="What does interconnectedness feel like? — Green Space Coaching and  Mindfulness"
+        data-iml="1209.8000000715256"
+        data-atf="true"
+      />
+      <h2 class="individual">
+        Why should programming matter to the every-day individual?
+      </h2>
+      <p>
+        When the average person hears programming, they imagine a few common
+        things. The 1's and 0's in the matrix series, or maybe even stories
+        about
+        <a
+          id="snowden"
+          href="https://www.npr.org/2019/09/19/761918152/exiled-nsa-contractor-edward-snowden-i-haven-t-and-i-won-t-cooperate-with-russia"
+          >Edward Snowden</a
+        >; an infamous ex-NSA data consultant. Regardless of its complexity,
+        programming is much more simple to point out in every day uses such as;
+        your phone, music, alarm, navigation, knowledge-base, and pretty much
+        the foundation for most companies and businesses globally. Its a big
+        deal whether you realize it or not! Especially when it comes to AI.
+        Thats a whole other conversation though. We as human beings have become
+        reliant on the technology and to prepare ourselves for whats coming in
+        the near future, understanding the plethora of information and how these
+        systems work and influence our daily lives is just as important as
+        learning how to survive on our own in the real world.
+      </p>
+      <h2 class="knowledge">
+        Knowledge is important, but why should i invest MY time in understanding
+        this tech when i am content with my everyday life as it is now?
+      </h2>
+      <p>
+        The future of our workforce is
+        <a
+          id="forbes"
+          href="https://www.forbes.com/sites/anniebrown/2021/06/02/automation-and-the-future-of-workhow-engineered-systems-are-improving-the-workplace/?sh=729c3287372a"
+          >automated</a
+        >
+        self driving cars and big rigs, bionic suits that assist in lifting and
+        lowering, and even semi-sentient humanoid AI. These can all buy humanity
+        time to come together and focus as a whole on realizing our purpose and
+        surpassing our previous understanding of the world around us and
+        ourselves.
+      </p>
+      <h2 class="influenced">Ways that we are unconsciously influenced</h2>
+      <ul>
+        <li>
+          Music and its
+          <a href="https://www.pnas.org/doi/10.1073/pnas.1515087112"
+            >frequency/tone</a
+          >
+        </li>
+        <li>
+          fast and engaging content to make you
+          <a
+            href="https://www.proquest.com/openview/4d7e41eb019558871327638cf5234990/1?pq-origsite=gscholar&cbl=716332"
+            >break your current train of thought.</a
+          >
+        </li>
+        <li>
+          Censorship, stunting the
+          <a
+            href="https://www.aclu.org/news/free-speech/the-problem-with-censoring-political-speech-online-including-trumps"
+            >freedom of speech</a
+          >
+        </li>
+        <li>
+          recurrent suggestions by
+          <a
+            href="https://www.internetjustsociety.org/algorithms-in-social-media-platforms"
+            >algorithims</a
+          >, with posotive and/or mal intent, making your think about things you
+          wouldnt have otherwise thought about
+        </li>
+      </ul>
+
+      <h2 class="check-all">
+        How do you feel about this information? Check all that apply!
+      </h2>
+      <form>
+        <input type="checkbox" id="neutral" name="neutral" name="neutral" />
+        <label for="neutral">Neutral</label>
+        <input type="checkbox" id="uneasy" name="uneasy" name="uneasy" />
+        <label for="Uneasy">Uneasy</label>
+        <input type="checkbox" id="angered" name="angered" name="angered" />
+        <label for="angered">angered</label>
+        <input
+          type="checkbox"
+          id="perplexed"
+          name="perplexed"
+          name="perplexed"
+        />
+        <label for="perplexed">perplexed</label>
+        <input
+          type="checkbox"
+          id="astonished"
+          name="astonished"
+          name="astonished"
+        />
+        <label for="astonished">astonished</label>
+      </form>
+
+      <h2 class="devils">Playing devils advocate</h2>
+      <p>
+        Now it can easily be agrued that its a doom and gloom situation;however,
+        the world is more complicated than that. Some argue that the Internet is
+        the end all for modern society and while others seem to use these newly
+        created tools to thrive and flourish!The entire concept of the internet
+        came with new opportunities, new resouces, and new ways of looking at
+        the world.
+      </p>
+      <ul>
+        <li>
+          <a
+            href="https://summitpsnews.org/2020/03/24/social-media-has-changed-the-lives-of-modern-society/#:~:text=Social%20media%20has%20helped%20many,insecurities%2C%20and%20waste%20of%20time."
+            >How social media has changed society</a
+          >
+        </li>
+        <li>
+          <a href="https://www.rainn.org/safe-media"
+            >How to protect yourself using the internet</a
+          >
+        </li>
+        <li>
+          <a href="https://www.ourrescue.org/"
+            >How the internet can be used to fight sex trafficking and unite
+            others with a cause</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://www.pewresearch.org/internet/2019/10/28/4-the-internet-will-continue-to-make-life-better/"
+            >How the internet has improved life and may continue to do so</a
+          >
+        </li>
+      </ul>
+      <h2 class="modern-life">
+        Links to other research reguarding the impact of the internet on modern
+        life
+      </h2>
+
+      <ol>
+        <li>
+          <a
+            href="http://aasa.ut.ee/augsburg/literature/DENTZEL_BBVA-OpenMind-book-Change-19-key-essays-on-how-internet-is-changing-our-lives-Technology-Internet-Innovation.pdf"
+            >How the internet is changing our lives</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://journals.sagepub.com/doi/abs/10.1177/1461444806059871"
+            >Coming of age with the internet</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://d1wqtxts1xzle7.cloudfront.net/51170346/Digital_democracy_final-with-cover-page-v2.pdf?Expires=1663806978&Signature=T82tlGitQ9SbEZQQR-OCurGLA57xYbqynoPmm07mxo0swL5j5wodrjKJdcOu~S0t-kStjH94z2gV0DDtBYqwhvTUQr7cuM7-ShedBhY7pAafPXsh27PKs6oQlbEk9cELCvvbRRs7FCEI5rRJ-DaG3fj564SAdhvlI-aueMe2hZl5cpEA4McfXJ0v5JldVtGU7U4-PYrqNkP3cD4CB5X5jvHcMKk5OHhJ~WllJkqpGVPbiekue18ZEZMLamlSXFTGDEVO9U21Q7~9MV3sUxVCrAepeJbrZcybpsv2DSx4a5XH6wnEC0JuhMgwh8rPSIO~sOrd6~cebVisNFPSZy2mgA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"
+            >The internet and democracy</a
+          >
+        </li>
+        <li>
+          <a href="http://informationr.net/ir/8-3/paper154.html"
+            >How the int.has changed information retrieval</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://www.tandfonline.com/doi/abs/10.1080/13691181003628307"
+            >literature on action repertoires of social movements in an internet
+            age</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://www.bu.edu/ssw/files/pdf/Prensky-The_Emerging_Online_Life_of_the_Digital_Native-033.pdf"
+            >Internet is just the tip of an enormous iceberg of possibilities</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://d1wqtxts1xzle7.cloudfront.net/63887921/Impact_of_modern_technology_in_education20200710-27957-jsmaeg-with-cover-page-v2.pdf?Expires=1663807101&Signature=RMxylNPwmf1fJsVSPxd0N32vCTpsQiNWIslb4FznSt6tvEZ-1np~~VgPofLJ4AKgpZ7miSJQOsJBteWVoHJ2qZkm2HhtVt-bZ2Wnc8fIhBKKkPS6bw4Ubzo4H63VEvaHQlIeEYlKosilSABMdFwdWkl2HnSVBHpdCp5sAerxGAIh5FuzpNO5YKQGnJlcJL8l0dXwDpljnSzd0N0JOigy8ZZII10U0UHgS7JgmZS17z8wO-qpPlU-8ZV96PnVwDOELqJQY0b9NVwok1KtRNvV3W-VVpjkso88lNNALgjAo-F1cYdbJH~XMF-XfrjFq25NCnHsyVITJ0keKH8q-SJaeA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"
+            >Effect on modern education</a
+          >
+        </li>
+      </ol>
+      <h2 class="conclusion">
+        Conclusion and what this has to do with understanding programming
+      </h2>
+      <p>
+        If you are a programmer your probably frustrated with the results of
+        this and may say that is is misleading to title the page "Why everyone
+        should understand programming".This is to all the individuals who do not
+        actually know any programming but need digestible content without
+        confusing syntax and explanations of function. The point is, its all
+        made by us. Its the most magical yet dangerous thing as we are all
+        exposed to the same information. We may actually be sheep to those who
+        make the algoithims, promote the products, and sell us on conflict.We
+        are consumers. Programming in both a litteral and influential way is all
+        around us. Social engineering, product engineering, one is creating the
+        devices used for influence and the other is the dircet result of these
+        functioning applications. In this era of such powerful technology it is
+        very important to set emotions aside and look at both sides of the
+        story, listen to many varying individual takes, and formulate your own
+        opinion. Most of the thinking is done for us now a days and its
+        important now more than ever to aknowledge that fact. Question deeper!
+        Think about what recieved a reaction from you and ask yourself: why did
+        i feel the way i did? What emotion resulted from that? What does that
+        say about me as a individual? Doing the work on and for oneself will
+        show you about your own nature, a nature that has been hidden from
+        yourself from overloading outside infuence. When you do this you start
+        to notice analogies EVERYWHERE. This is your bodies compass through an
+        unseen part of life. A part that you feel, that you swim in and do not
+        see, a part that is best described by whatever analogy you want to use.
+        You could call it divine intervention, synchronicities, patterns, karma,
+        God, deja vu, superstition, or even somehow associate it with the star
+        alignment. While these may not be 100% accurate in the day to day
+        activities, they are in some sort of strange and untangible way a
+        neccesity for humanity. A belief system, a motto, a statement, a reason.
+        We are all programmable, so be mindful.
+      </p>
+      <footer>
+        <div class="bottom-spacing">
+          <div id="blank">
+            <p><a href="#top">back to top</a></p>
+          </div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </footer>
+    </body>
+  </html>
+</DOCTYPE>
