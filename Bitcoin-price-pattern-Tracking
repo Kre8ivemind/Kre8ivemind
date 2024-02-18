@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head id="head">
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <style>
+    .quote{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-style:oblique;
+        font-weight:bold;
+    }
+    .body{
+
+        background-color:lightyellow;
+    }
+  
+    .btc-image{
+
+    }
+    .eth-image{
+transform-style: flat;
+
+    }
+    .btc-price{
+        background-image:url(btcc.jpeg) ;
+        font-color:white;
+        object-position:contain;
+    }
+    .google-calc{
+
+    }
+  </style>
+  <body class="body">
+    <h1 class="btc-price">Bitcoin Price Analysis</h1>
+    
+    <quote class="quote">"Those who don't know history are destined to repeat it"</quote>
+     -by <a href="https://en.wikipedia.org/wiki/Edmund_Burke">Edmund Burke</a>.
+    </p>
+    <div class="row">
+    <div class="column"></div>
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstat2.moneycontrol.com%2Fassets%2Fimages%2Fms%2Fwazirx%2Fa-beginners-guide.jpg&tbnid=3Ju4Q9S3lQ8kYM&vet=12ahUKEwidrar-9bWEAxU-hu4BHVJJA0QQMygCegQIARB5..i&imgrefurl=https%3A%2F%2Fwww.moneycontrol.com%2Fmsite%2Fwazirx-cryptocontrol-articles%2Fa-beginners-guide-to-cryptocurrency-article%2F&docid=PA8TXPCFBVPbhM&w=1280&h=720&q=cryptocurrency&hl=en&authuser=0&ved=2ahUKEwidrar-9bWEAxU-hu4BHVJJA0QQMygCegQIARB5" alt="BTC image" class="BTC image.jpeg" width="30%"/>
+</div>
+    
+    <h2> The prices of markets rise and fall for many reasons and at varying rates. But did you know that if you do the math you can tell whats going to happen to the more certain degree of conviction ? Lets run some numbers and see what happpens!</h2>
+    
+    <h3>Do these result numbers mean anything? We will just have to find out and look back as a refernce.</h3>
+    <p>The math will have to be redone yearly to be most accurate. A reflection from the results back to this chart will tell us all the most predictable pattern.</p>
+
+    <p class="google-calc">Run the math for yourself right <a href="https://www.google.com/search?q=calculator&rlz=1C5CHFA_enUS961US961&oq=calcul&aqs=chrome.0.0i131i433i512j69i57j0i131i433i512l7j0i512.6443j0j15&sourceid=chrome&ie=UTF-8">HERE</a></p>
+
+    <h3>Bitcoins low-to-high percentage measurements</h3>
+<table>
+        <tr>
+            <th>Year</th>
+            <th>Low</th>
+            <th>High</th>
+            <th>difference%</th>
+            </tr>
+            <tr>
+            <th>Jan/1/2013</th>
+            <th>$13</th>
+            <th>$227</th>
+            <th>1,746%</th>
+        </tr>
+        <tr>
+            <th>July/8/2013</th>
+            <th>$61</th>
+            <th>$1,130</th>
+            <th>1,852%</th>
+        </tr>
+        <tr>
+            <th>Aug/24/2015-Dec/17/2017</th>
+            <th>$171</th>
+            <th>$6,307</th>
+            <th>3,688%<th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>March/12/2020-Oct/21/2021</th>
+            <th>$2,930</th>
+            <th>$69,000</th>
+            <th>2,354%</th>
+        </tr>
+       
+    </table>
+    <h3>Now measure the decreases from ATH (All-time-high)</h3>
+    <table>
+    <tr>
+        <th>Year</th>
+        <th>High</th>
+        <th>Low</th>
+        <th>Difference%</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>April/12/2013</th>
+        <th>$230</th>
+        <th>$64.15</th>
+        <th>73%</th>
+    </tr>
+    <tr>
+        <th>Nov/30/2013-Aug/24/2015</th>
+        <th>$1132</th>
+        <th>$201</th>
+        <th>83%</th>
+    </tr>
+    <tr>
+        <th>Dec/16/2017-Feb/7/2019</th>
+        <th>$19372</th>
+        <th>$3375</th>
+        <th>83%</th>
+    </tr>
+    <tr>
+        <th>Nov/9/2021-current</th>
+        <th>$67,611</th>
+        <th>?</th>
+        <th>?</th>
+        
+    </tr>
+    
+</table>
+<h3>Now add 83+83+73, and then divide by 3.</h3>
+
+<p>Now your answer should be around 79.66%, this is our average drop from new all time high to the new bottom. So if we are to make a predicition based off of this average the new low would fall from anywhere between $11,493 to $14,198</p>
+<h3>OUTLIER FACTORS</h3>
+<p>Now we cant rely on the pattern alone to make a accurate prediction, they're many complex parts moving at the same time.<a href="https://www.google.com/search?gs_ssp=eJzj4tLP1TfIijcuMrU0YPTizUotys9NVSjIL0_NyQEAbsoIqQ&q=jerome+powell&rlz=1C5CHFA_enUS961US961&oq=jerome+&aqs=chrome.1.69i57j46i433i512j46i131i199i433i465i512j46i433i512l2j46i131i433i512j46i433i512j46i131i433i512j46i175i199i512j0i271.2903j0j15&sourceid=chrome&ie=UTF-8">Jerome Powell</a> and the <a href="https://en.wikipedia.org/wiki/Federal_Reserve">Federal Reserve</a> play a crucial roll in making and breaking the global markets. That being said your best bet is to do the math and listen to what the centralized powers are doing to help/hurt the current markets.</p>
+<p><a href="bitcoin analysis .html/head">Back to top</a></p>
+  </body>
+  <footer>Made on Oct/5/2022</footer>
