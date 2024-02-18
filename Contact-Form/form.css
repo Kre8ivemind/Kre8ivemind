@@ -1,0 +1,109 @@
+.nav-bar{
+    background-repeat: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    background: linear-gradient(45deg, rgb(232, 147, 43), rgb(248, 220, 8));
+    min-width: 100vw;
+    
+    
+    
+}
+
+.buttons{
+    top: 30px;
+    display: flex;
+    position:static;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+    margin: auto;
+    padding: 50px;
+
+}
+.scarecrow{
+    padding-right:60px;
+    font-weight:900;
+}
+.eye-svg{
+    
+    font-weight: 500;
+    min-width: 14vw;
+    min-height: 4vh;
+    }
+.inquiry{
+padding-right: 20px;
+}
+.inquiryy:hover{
+    color:blue;
+}
+.portfolio{
+padding-right: 20px;
+padding-left: 80px;
+}
+.portfolioo:hover{
+    color: blue;
+}
+.credentials{
+padding-right: 20px;
+padding-left: 80px;
+}
+.credentialss:hover{
+    color: blue;
+}
+body .container img{
+display: flex;
+flex-direction: column;
+min-height: 70vh;
+min-width: 100vw;
+background-repeat: none;
+opacity: 0.5;
+position: fixed;
+}
+body .container #about-us{
+    position:fixed;
+    top: 180px;
+    text-decoration-color: black;
+    border-bottom: 5px solid black;
+    padding: 0;
+    margin: 0;
+    
+
+}
+body .container .p-intro{
+    min-height: 50vh;
+position: fixed;
+top: 300px;
+bottom: 400px;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 500;
+}
+body .container img{
+    min-height: 100vh;
+}
+.p-intro li{
+    font-size: 20px;;
+    display: flex;
+    flex-direction: column;
+    padding: none;
+    margin: 20px 500px 560px 0px;
+    list-style: none;
+}
+.scarecrow2{
+    display: flex;
+    border: 2px solid black;
+    font-weight: 800;
+    background:linear-gradient(60deg, lightyellow, orange) ;
+}
+.intro{
+    font-weight: 600;
+    border: 2px solid black;
+    background:linear-gradient(60deg, lightyellow, orange) ;
+}
+.heree:hover{
+    color: blue;
+}
+@media-query {
+    
+}

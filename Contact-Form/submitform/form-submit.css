@@ -1,0 +1,113 @@
+body .container{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    background:linear-gradient(60deg, lightyellow, orange) ;
+    min-height: 100vh ;
+    min-width: 100vw;
+    padding: 0;
+    margin: 0;
+    
+}
+.nav-bar{
+    background-repeat: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    background: linear-gradient(45deg, rgb(232, 147, 43), rgb(248, 220, 8));
+    min-width: 100vw;
+    
+    
+    
+}
+
+.buttons{
+    top: 30px;
+    display: flex;
+    position:static;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+    margin: auto;
+    padding: 50px;
+
+}
+.scarecrow{
+    padding-right:60px;
+    font-weight:900;
+}
+.eye-svg{
+    
+    font-weight: 500;
+    min-width: 14vw;
+    min-height: 4vh;
+    }
+.inquiry{
+padding-right: 20px;
+}
+.inquiryy:hover{
+    color:blue;
+}
+.portfolio{
+padding-right: 20px;
+padding-left: 80px;
+}
+.portfolioo:hover{
+    color: blue;
+}
+.credentials{
+padding-right: 20px;
+padding-left: 80px;
+}
+.credentialss:hover{
+    color: blue;
+}
+.top{
+    display: flex;
+    border-bottom: 2px solid black;
+    margin: auto;
+}
+.touch{
+    display: flex;
+    padding-left: 20px;
+}
+
+.format{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 5px;
+    padding: 0;
+    border: 3px solid black;
+    margin: auto;
+    min-width:50vw ;
+    min-height: 400px;
+    background: #ffff;
+}
+.format .p{ 
+    margin: auto;
+    padding-left: 20px;
+    font: bold helvetica;
+}
+.p{
+    font-weight: 200;
+}
+.pen{
+    padding-left: 300px;
+}
+.format .name{
+padding: 20px;
+}
+.format .email{
+padding: 20px;
+}
+.format .phone{
+padding: 20px;
+}
+@media only screen and (min-width:600px){
+    .pen{
+   padding-left: 90px;
+   padding-right: 50px;
+    }
+}
